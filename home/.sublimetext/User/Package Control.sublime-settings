@@ -10,13 +10,23 @@
 		"auto-save",
 		"ayu",
 		"BracketHighlighter",
+		"Coffee Color Scheme",
 		"Deep Blue See",
+		"ERB Autocomplete",
+		"Git",
 		"GitGutter",
+		"HTML5",
+		"JSX",
 		"MarkdownHighlighting",
 		"Package Control",
 		"Python 3",
 		"SideBarEnhancements",
+		"SublimeERB",
 		"SublimeLinter",
-		"SublimeLinter-pylint"
+		"SublimeLinter-contrib-mdl",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pylint",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby"
 	]
 }
