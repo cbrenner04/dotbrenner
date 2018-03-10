@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"auto-save",
+		"ayu",
+		"BracketHighlighter",
+		"Deep Blue See",
+		"GitGutter",
+		"MarkdownHighlighting",
+		"Package Control",
+		"Python 3",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-pylint"
+	]
+}

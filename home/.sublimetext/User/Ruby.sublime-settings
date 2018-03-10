@@ -1,0 +1,5 @@
+// These settings override both User and Default settings for the Ruby syntax
+{
+    "color_scheme": "Packages/Deep Blue See/Deep Blue See.tmTheme",
+    "tab_size": 2
+}

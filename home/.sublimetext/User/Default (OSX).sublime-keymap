@@ -1,0 +1,4 @@
+[
+    { "keys": ["super+\\"], "command": "toggle_side_bar" },
+    { "keys": ["super+1"], "command": "insert_snippet", "args": {"contents": "import ipdb; ipdb.sset_trace()"} }
+]

@@ -1,1 +1,10 @@
 home/.bash_profile.d/private
+home/.sublimetext/User/Package Control.last-run
+home/.sublimetext/User/Package Control.ca-list
+home/.sublimetext/User/Package Control.ca-bundle
+home/.sublimetext/User/Package Control.merged-ca-bundle
+home/.sublimetext/User/Package Control.system-ca-bundle
+home/.sublimetext/User/Package Control.user-ca-bundle
+home/.sublimetext/User/Package Control.cache/
+home/.sublimetext/User/Package Control.ca-certs/
+home/.sublimetext/User/*.crt
