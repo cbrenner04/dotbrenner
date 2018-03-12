@@ -3,6 +3,7 @@
     "linters": {
         "pylint": {
             "python": 3,
+            "rcfile": "/Users/cbrenner/Work/automation-pizzahut/.pylintrc"
         }
     }
 }
