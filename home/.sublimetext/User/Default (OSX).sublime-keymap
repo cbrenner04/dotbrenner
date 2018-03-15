@@ -1,4 +1,6 @@
 [
     { "keys": ["super+\\"], "command": "toggle_side_bar" },
-    { "keys": ["super+1"], "command": "insert_snippet", "args": {"contents": "import ipdb; ipdb.sset_trace()"} }
+    { "keys": ["super+1"], "command": "insert_snippet", "args": {"contents": "import ipdb; ipdb.sset_trace()"} },
+    { "keys": ["super+2"], "command": "insert_snippet", "args": {"contents": "require 'pry'; binding.pry"} },
+    { "keys": ["super+3"], "command": "insert_snippet", "args": {"contents": "debugger;"} }
 ]
