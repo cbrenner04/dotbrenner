@@ -1,0 +1,8 @@
+// These settings override both User and Default settings for the erb syntax
+{
+    "rulers":
+    [
+        120
+    ],
+    "tab_size": 2
+}
