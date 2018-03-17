@@ -25,6 +25,7 @@
 		"SideBarEnhancements",
 		"SublimeERB",
 		"SublimeLinter",
+		"SublimeLinter-contrib-htmllint",
 		"SublimeLinter-contrib-mdl",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
