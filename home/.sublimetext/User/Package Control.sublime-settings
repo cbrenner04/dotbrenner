@@ -26,6 +26,7 @@
 		"SublimeERB",
 		"SublimeLinter",
 		"SublimeLinter-contrib-htmllint",
+		"SublimeLinter-contrib-markdownlint",
 		"SublimeLinter-contrib-mdl",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",

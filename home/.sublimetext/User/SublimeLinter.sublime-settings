@@ -7,6 +7,9 @@
         },
         "eslint": {
             "rcfile": "$HOME/.eslintrc.yml"
+        },
+        "mdl": {
+            "disable": true
         }
     }
 }
