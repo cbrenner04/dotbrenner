@@ -3,7 +3,10 @@
     "linters": {
         "pylint": {
             "python": 3,
-            "rcfile": "/Users/cbrenner/.pylintrc"
+            "rcfile": "$HOME/.pylintrc"
+        },
+        "mdl": {
+            "disable": true
         }
     }
 }
