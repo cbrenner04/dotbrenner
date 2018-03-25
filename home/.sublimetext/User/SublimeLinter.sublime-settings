@@ -8,6 +8,9 @@
         "eslint": {
             "rcfile": "$HOME/.eslintrc.yml"
         },
+        "jshint": {
+            "disable": true
+        },
         "mdl": {
             "disable": true
         }
