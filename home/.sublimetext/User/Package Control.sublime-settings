@@ -28,10 +28,10 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-htmllint",
 		"SublimeLinter-contrib-markdownlint",
-		"SublimeLinter-contrib-mdl",
 		"SublimeLinter-eslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
+		"SublimeLinter-mdl",
 		"SublimeLinter-pylint",
 		"SublimeLinter-rubocop",
 		"SublimeLinter-ruby"
