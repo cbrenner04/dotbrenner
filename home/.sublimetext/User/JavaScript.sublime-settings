@@ -1,4 +1,8 @@
 // These settings override both User and Default settings for the JavaScript syntax
 {
-  "tab_size": 4,
+  "color_scheme": "Packages/Sunnyvale Color Scheme/SunnyVale Theme Dark.tmTheme",
+  "tab_size": 2,
+  "rulers": [
+    120,
+  ]
 }

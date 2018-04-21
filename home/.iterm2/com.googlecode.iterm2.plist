@@ -4009,14 +4009,18 @@
 	<string>A514973B-2006-4C35-B1EA-EFB5A17DC748</string>
 	<key>HideMenuBarInFullscreen</key>
 	<true/>
+	<key>HideTab</key>
+	<true/>
+	<key>HideTabNumber</key>
+	<false/>
 	<key>HotkeyMigratedFromSingleToMulti</key>
 	<true/>
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Dropbox</string>
+	<string>~/Documents</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
-	<string>{720, 448}</string>
+	<string>{712, 448}</string>
 	<key>NSQuotedKeystrokeBinding</key>
 	<string></string>
 	<key>NSRepeatCountBinding</key>
@@ -4032,7 +4036,7 @@
 	gAKACoAN0xAJChEVGVdOUy5rZXlzoxITFIADgASABaMWFxiABoAHgAiACVpJZGVudGlm
 	aWVyVVdpZHRoVkhpZGRlblEwI0BowAAAAAAACNIhIiMkWiRjbGFzc25hbWVYJGNsYXNz
 	ZXNcTlNEaWN0aW9uYXJ5oiMlWE5TT2JqZWN00xAJCicrGaMSExSAA4AEgAWjLC0YgAuA
-	DIAIgAlRMSNAc7Gdsi0OVtIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
+	DIAIgAlRMSNAdKGdsi0OVtIhIjM0Xk5TTXV0YWJsZUFycmF5ozM1JVdOU0FycmF5XxAP
 	TlNLZXllZEFyY2hpdmVy0Tg5VUFycmF5gAEACAARABoAIwAtADIANwBGAEwAUQBcAGMA
 	ZgBoAGoAbABzAHsAfwCBAIMAhQCJAIsAjQCPAJEAnACiAKkAqwC0ALUAugDFAM4A2wDe
 	AOcA7gDyAPQA9gD4APwA/gEAAQIBBAEGAQ8BFAEjAScBLwFBAUQBSgAAAAAAAAIBAAAA
@@ -4049,13 +4053,11 @@
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>3947 815 796 473 3200 261 1920 1080 </string>
-	<key>NSWindow Frame UKCrashReporter</key>
-	<string>80 193 592 584 0 0 1280 777 </string>
+	<string>269 230 770 429 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 376 585 402 0 0 1280 778 </string>
+	<string>232 232 759 417 0 0 1440 878 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>3334 509 585 402 3200 261 1920 1080 </string>
+	<string>0 467 570 352 0 0 1440 900 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -4682,7 +4684,7 @@
 			<key>Transparency</key>
 			<real>0.0</real>
 			<key>Unlimited Scrollback</key>
-			<false/>
+			<true/>
 			<key>Use Bold Font</key>
 			<true/>
 			<key>Use Bright Bold</key>
@@ -4706,11 +4708,11 @@
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
-	<string>36321F95-DE2B-4446-A65A-487AD61B1EFA</string>
+	<string>3E096979-E940-4BFD-9D81-2797FD887D44</string>
 	<key>NoSyncPermissionToShowTip</key>
 	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
-	<real>537837490.99303997</real>
+	<real>544398842.05688906</real>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -4745,17 +4747,17 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/cbrenner/.homesick/repos/dotbrenner/home/.iterm2</string>
+	<string>/Users/chris.brenner/.homesick/repos/dotbrenner/home/.iterm2</string>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
-	<string>https://iterm2.com/appcasts/final.xml?shard=94</string>
+	<string>https://iterm2.com/appcasts/final.xml?shard=29</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2018-03-15T15:38:24Z</date>
+	<date>2018-04-21T15:16:47Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowFullScreenTabBar</key>
@@ -4766,14 +4768,12 @@
 	<integer>3</integer>
 	<key>TraditionalVisualBell</key>
 	<true/>
-	<key>UKCrashReporterLastCrashReportDate</key>
-	<real>1516752896</real>
 	<key>WordCharacters</key>
 	<string>/-+\~_.</string>
 	<key>findMode_iTerm</key>
 	<integer>0</integer>
 	<key>iTerm Version</key>
-	<string>3.1.5.beta.2</string>
+	<string>3.1.5</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>3</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
