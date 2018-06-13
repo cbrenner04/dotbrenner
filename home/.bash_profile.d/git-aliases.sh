@@ -1,6 +1,6 @@
 alias checkout="git checkout"
 alias status="git status"
-alias amend="git add .; git commit --amend"
+alias amend="git add --all; git commit --amend"
 alias commit="git add --all; git commit --verbose"
 alias pull="git pull"
 alias push="git push"
