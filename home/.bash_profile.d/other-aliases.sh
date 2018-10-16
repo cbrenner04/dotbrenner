@@ -3,3 +3,4 @@ alias showFiles="defaults write com.apple.finder AppleShowAllFiles YES; killall 
 alias hideFiles="defaults write com.apple.finder AppleShowAllFiles NO; killall Finder /System/Library/CoreServices/Finder.app"
 alias weather="curl wttr.in/chicago"
 alias clearNpmCache="rm -rf node_modules/; rm -f package-lock.json; npm cache clean -f"
+alias countFiles="ls -l | wc -l"

@@ -2,7 +2,6 @@
     "sublimeTextKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.snippetSuggestions": "top",
-    "editor.formatOnPaste": true,
     "workbench.colorTheme": "An Old Hope",
     "workbench.iconTheme": "vscode-icons",
     "gitlens.advanced.messages": {
@@ -14,10 +13,19 @@
     "editor.rulers": [
         120
     ],
+    "[ruby]": {
+        "editor.rulers": [
+            80
+        ],
+    },
     "editor.tabSize": 2,
     "files.trimTrailingWhitespace": true,
-    "files.insertFinalNewline": true,
     "window.zoomLevel": 0,
     "gitlens.historyExplorer.enabled": true,
-    "javascript.updateImportsOnFileMove.enabled": "never"
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "files.autoSave": "off",
+    "files.insertFinalNewline": true,
+    "workbench.fontAliasing": "auto",
+    "editor.fontWeight": "500",
+    "editor.renderWhitespace": "boundary"
 }
