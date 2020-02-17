@@ -18,7 +18,7 @@
 		"*.zip",
 		"*.jar"
 	],
-	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"detect_indentation": false,
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"ensure_newline_at_eof_on_save": true,
@@ -73,6 +73,7 @@
 	"ignored_packages":
 	[
 		"Groovy Snippets",
+		"SublimeLinter-pylint",
 		"Vintage"
 	],
 	"index_files": true,

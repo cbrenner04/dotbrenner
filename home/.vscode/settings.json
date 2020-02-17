@@ -3,7 +3,6 @@
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.snippetSuggestions": "top",
     "workbench.colorTheme": "An Old Hope",
-    "workbench.iconTheme": "vscode-icons",
     "gitlens.advanced.messages": {
         "suppressShowKeyBindingsNotice": true
     },
@@ -27,5 +26,29 @@
     "files.insertFinalNewline": true,
     "workbench.fontAliasing": "auto",
     "editor.fontWeight": "500",
-    "editor.renderWhitespace": "boundary"
+    "editor.renderWhitespace": "boundary",
+    "gitlens.views.fileHistory.enabled": true,
+    "gitlens.views.lineHistory.enabled": true,
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.quickSuggestionsDelay": 10,
+    "editor.detectIndentation": false,
+    "editor.scrollBeyondLastLine": false,
+    "editor.wordWrap": "off",
+    "editor.formatOnPaste": true,
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.editor.revealIfOpen": true,
+    "cSpell.userWords": [
+      "dropdown",
+      "postgres",
+      "psql",
+      "uuid"
+    ],
+    "eslint.nodePath": "/Users/chris.brenner/.nvm/versions/node/v10.16.0/lib/node_modules",
+    "python.insidersChannel": "off",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always"
 }

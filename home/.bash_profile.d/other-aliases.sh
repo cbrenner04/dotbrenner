@@ -4,3 +4,4 @@ alias hideFiles="defaults write com.apple.finder AppleShowAllFiles NO; killall F
 alias weather="curl wttr.in/chicago"
 alias clearNpmCache="rm -rf node_modules/; rm -f package-lock.json; npm cache clean -f"
 alias countFiles="ls -l | wc -l"
+alias dockerLoginAWS="aws ecr get-login --no-include-email --region us-east-1 --profile tempus-devops"
