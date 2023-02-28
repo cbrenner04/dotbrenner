@@ -1,54 +1,95 @@
 {
-    "sublimeTextKeymap.promptV3Features": true,
-    "editor.multiCursorModifier": "ctrlCmd",
-    "editor.snippetSuggestions": "top",
-    "workbench.colorTheme": "An Old Hope",
-    "gitlens.advanced.messages": {
-        "suppressShowKeyBindingsNotice": true
-    },
-    "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true,
-    "workbench.sideBar.location": "left",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "workbench.colorTheme": "An Old Hope",
+  "editor.fontFamily": "Dank Mono",
+  "editor.fontLigatures": true,
+  "workbench.sideBar.location": "left",
+  "editor.rulers": [
+    {
+      "column": 120,
+      "color": "#3b3b3b"
+    }
+  ],
+  "[ruby]": {
     "editor.rulers": [
-        120
+      80
     ],
-    "[ruby]": {
-        "editor.rulers": [
-            80
+  },
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "files.autoSave": "off",
+  "files.insertFinalNewline": true,
+  "workbench.fontAliasing": "auto",
+  "editor.fontWeight": "500",
+  "editor.renderWhitespace": "all",
+  "editor.minimap.enabled": false,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.quickSuggestionsDelay": 10,
+  "editor.detectIndentation": false,
+  "editor.scrollBeyondLastLine": false,
+  "editor.wordWrap": "off",
+  "editor.formatOnPaste": true,
+  "workbench.view.alwaysShowHeaderActions": true,
+  "workbench.editor.revealIfOpen": true,
+  "cSpell.userWords": [
+    "dropdown",
+    "postgres",
+    "psql",
+    "uuid"
+  ],
+  "eslint.nodePath": "/Users/chris.brenner/.nvm/versions/node/v10.16.0/lib/node_modules",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontSize": 14,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "comment",
+          "emphasis",
+          "entity.other.attribute-name",
+          "keyword.operator.cast",
+          "keyword.operator.expression",
+          "keyword.operator.logical.python",
+          "keyword.operator.new",
+          "keyword.operator.sizeof",
+          "markup.italic",
+          "meta.decorator punctuation.decorator",
+          "punctuation.definition.comment",
+          "punctuation.definition.template-expression.begin",
+          "punctuation.definition.template-expression.end",
+          "storage.modifier",
+          "storage.type",
+          "variable.language"
         ],
-    },
-    "editor.tabSize": 2,
-    "files.trimTrailingWhitespace": true,
-    "window.zoomLevel": 0,
-    "gitlens.historyExplorer.enabled": true,
-    "javascript.updateImportsOnFileMove.enabled": "never",
-    "files.autoSave": "off",
-    "files.insertFinalNewline": true,
-    "workbench.fontAliasing": "auto",
-    "editor.fontWeight": "500",
-    "editor.renderWhitespace": "boundary",
-    "gitlens.views.fileHistory.enabled": true,
-    "gitlens.views.lineHistory.enabled": true,
-    "editor.minimap.enabled": false,
-    "workbench.iconTheme": "vscode-icons",
-    "editor.acceptSuggestionOnEnter": "off",
-    "editor.quickSuggestionsDelay": 10,
-    "editor.detectIndentation": false,
-    "editor.scrollBeyondLastLine": false,
-    "editor.wordWrap": "off",
-    "editor.formatOnPaste": true,
-    "workbench.view.alwaysShowHeaderActions": true,
-    "workbench.editor.revealIfOpen": true,
-    "cSpell.userWords": [
-      "dropdown",
-      "postgres",
-      "psql",
-      "uuid"
-    ],
-    "eslint.nodePath": "/Users/chris.brenner/.nvm/versions/node/v10.16.0/lib/node_modules",
-    "python.insidersChannel": "off",
-    "[javascript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "typescript.updateImportsOnFileMove.enabled": "always"
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "git.autofetch": true,
+  "files.associations": {
+    "*.txt": "plaintext"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "window.zoomLevel": 1,
+  "[python]": {
+    "editor.formatOnType": true
+  }
 }
